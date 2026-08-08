@@ -1,4 +1,4 @@
-# ⚡ Tsog Performance Harness for Claude (Free Tier Optimization)
+# ⚡ Performance Harness for Claude by TsogCreatives Lab (Free Tier Optimization)
 Ultra-lean Claude Desktop harness &amp; system instructions (CLAUDE.md). Eliminates token bloat, enforces surgical search/replace edits, and stops rate-limit lockouts on free/pro tiers.
 
 ===
@@ -18,4 +18,4 @@ Stop getting locked out by Claude Desktop rate limits. This ultra-lean configura
 3. Rename inactive MCP servers with `_DISABLED` (e.g., `"_local_n8n_DISABLED"`) to free up context tokens.
 
 ---
-⚡ *Maintained by TsogCreatives (Solo Dev & Creative Studio)*
+⚡ *Maintained by TsogCreatives Lab (Solo Dev & Creative Studio)*
